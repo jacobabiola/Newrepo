@@ -1,2 +1,2 @@
 # Newrepo
-lesson class repository
+Class lesson repository
